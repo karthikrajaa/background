@@ -3,7 +3,7 @@ export default function Navbar() {
   return (
     <div>
         <nav>
-            <div className="flex justify-between flex-wrap lg:container my-auto lg:mx-auto lg:h-16" style={{ maxWidth:"80%"}}>
+            <div className="flex justify-between flex-wrap  my-auto lg:mx-auto lg:h-16" style={{ maxWidth:"80%"}}>
                 
                 <div className="text pt-5">
                     <p className="text-3xl font-bold mt-4" style={{ color: "#2B1DBE"}}>Background Check</p>
