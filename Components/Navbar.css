@@ -1,0 +1,7 @@
+.grade{
+    background-image: linear-gradient(#AC943A, #8B731A);
+  }
+
+#menu-toggle:checked + #menu {
+  display: block;
+}
