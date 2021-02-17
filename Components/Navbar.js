@@ -20,20 +20,20 @@ export default function Navbar() {
                 <div className="w-full block lg:flex lg:items-center lg:w-auto lg:h-16 ml-4 pt-10" 
                     >
                     <div className="text-sm mb-4 lg:mb-0">
-                        <a href="#/" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-lg font-medium"  style={{ color: "#3A3A3A"}}>
+                        <a href="#/" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
                             Solution
                         </a>
-                        <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-lg font-medium"  style={{ color: "#3A3A3A"}}>
+                        <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
                             Product
                         </a>
-                        <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-lg font-medium"  style={{ color: "#3A3A3A"}}>
+                        <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
                             Resources
                         </a>
-                        <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-lg font-medium"  style={{ color: "#3A3A3A"}}>
+                        <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
                             Company
                         </a>
-                        <button href="#responsive-header" className="block text-white text-lg lg:inline-block mr-16 py-3 px-5 w-48 rounded border" style={{ color:"#2B1DBE"}}>Request a Demo</button>
-                        <button href="#responsive-header" className="block text-white lg:inline-block py-3 px-8 w-48 rounded" style={{ backgroundColor:"#2B1DBE"}}>Login</button>
+                        <button href="#responsive-header" className="block text-white text-base lg:inline-block mr-16 py-3 px-5 w-48 rounded border" style={{ color:"#2B1DBE"}}>Request a Demo</button>
+                        <button href="#responsive-header" className="block text-white text-base lg:inline-block py-3 px-8 w-48 rounded" style={{ backgroundColor:"#2B1DBE"}}>Login</button>
                     </div>
                 </div>
                 </div>
