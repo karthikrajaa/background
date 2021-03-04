@@ -17,13 +17,12 @@ export default function Navbar() {
                     </button>
                 </div>
 
-                <div className="w-full block lg:flex lg:items-center lg:w-auto lg:h-16 ml-4 pt-10" 
-                    >
+                <div className="w-full block lg:flex lg:items-center lg:w-auto lg:h-16 ml-4 pt-10">
                     <div className="text-sm mb-4 lg:mb-0">
-                        <a href="#/" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
-                            Solution
+                        <a href="/" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
+                            Home
                         </a>
-                        <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
+                        <a href="/Form" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
                             Product
                         </a>
                         <a href="#responsive-header" className="block mt-4 lg:inline-block lg:mt-0 mr-16 text-base font-medium"  style={{ color: "#3A3A3A"}}>
