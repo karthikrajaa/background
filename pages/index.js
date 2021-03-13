@@ -245,7 +245,7 @@ export default function Home() {
           <p className="text-xl text-center mt-10" style={{ color: "#676975"}}>Select the best packaging for your needs</p>
 
           <div className="container mx-auto mt-10" style={{ maxWidth:"70%"}}>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-5 mx-5 md:mt-0 md:mx-0">
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mt-5 mx-5 md:mt-0 md:mx-0">
               
               <div className="col-span-1">
                 <div className="border-gray-300 shadow-lg py-10">
